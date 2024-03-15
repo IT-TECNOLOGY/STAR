@@ -1,0 +1,9 @@
+@media(max-width: 800px){
+  #balao{
+    display: none !important;
+  }
+
+  #wpp{
+    display: block !important;
+  }
+}
